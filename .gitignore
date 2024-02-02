@@ -1,0 +1,11 @@
+#ignorar db
+.db
+
+#ignorar archivo secrets
+.secrets.js
+
+#ignorar credenciales de correo
+.credenciales_correo-py
+
+#ignorar carpeta __pycache__
+.__pycache__
